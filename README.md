@@ -1,7 +1,7 @@
 # MoneyPulator
 
 ## Эвристический поиск для роботов-манипуляторов
-![pres](https://user-images.githubusercontent.com/35924216/169374668-0a02ceed-2cb0-4cd4-a249-f8ae38282d4f.gif)
+![Example](https://user-images.githubusercontent.com/35924216/169374960-472e2e6a-b97f-4f20-aed1-474e171deed8.gif)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMiknich/MoneyPulator/blob/main/Manipulator.ipynb)
 
 В данном репозитории представлен базовый алгоритм эвристического поиска A* для плоского n-шарнирного манипулятора.
